@@ -11,6 +11,8 @@ Reset  	= 6
 # this might be useful
 action_space = [Nothing, Up, Down, Left, Right, Bomb]
 
+move_space = [Up, Down, Left, Right]
+
 
 # this is TCP client stuff and doesnt really concern you :)
 Untyped 	= 0
