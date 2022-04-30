@@ -2,6 +2,8 @@
 
 This is a client to control a player in a BomberBuddy game. The purpose is to have a competition where AI agents and algorithms try to blow each other up! However this project is in beta and probably has some bugs so please raise an issue or send me a message on the 42 slack (jbarment).  
 
+It's a game with [perfect information](https://en.wikipedia.org/wiki/Perfect_information).
+
 <br/>
 
 ## How it works
@@ -31,6 +33,7 @@ python3 fight.py "./ExampleAgent.py" "./ExampleAgent.py"
 ```
 
 The code to ExampleAgent.py contains what you need to know to start building an agent.  
+
 
 <br/>
 
